@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AlishaFogle
 - 👀 I’m interested in html, css, java, vba and javascript.
-- 🌱 I’m currently relearning html, css and javascript
+- 🌱 I’m currently relearning html, css and javascript.
+- 🌱 I love Linux but sad some of the programs that I love doesn't run on Linux so I still need Windows to run... 
 - 📫 How to reach me: fogle.alisha@gmail.com
 
 <!---
